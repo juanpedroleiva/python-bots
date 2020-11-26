@@ -1,7 +1,0 @@
-.pylintrc
-*.log
-/__pycache__
-gui*
-debug.log
-maincopy.py
-
